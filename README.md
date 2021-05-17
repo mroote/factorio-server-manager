@@ -2,6 +2,8 @@
 
 # Factorio Server Manager
 
+## This project has moved to [github.com/OpenFactorioServerManager/factorio-server-manager](https://github.com/OpenFactorioServerManager/factorio-server-manager)
+
 ### A tool for managing Factorio servers.
 This tool runs on a Factorio server and allows management of the Factorio server, saves, mods and many other features.
 
